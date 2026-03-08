@@ -5,7 +5,7 @@ import shap
 import matplotlib.pyplot as plt
 
 # 1. Load data
-expr_raw = pd.read_csv('/Users/deeksharajesh/Downloads/QPIAI_input/data/E-PROT-149.tsv', sep='\t')
+expr_raw = pd.read_csv('data/E-PROT-149.tsv', sep='\t')
 
 # 2. Create the labels
 expr_raw['Protein_Label'] = expr_raw['Gene Name'].fillna(expr_raw['Gene ID'])
