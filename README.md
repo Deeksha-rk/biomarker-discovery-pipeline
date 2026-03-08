@@ -3,6 +3,9 @@
 **Objective**  
 Trying to find biomarkers to distinguish between breast cancer and healthy (controls) using Bioinformatic tools and AI, so that it will provide us concrete results regarding disease progression and early diagnosis of breast cancer.
 
+<img width="349" height="613" alt="Flowchart" src="https://github.com/user-attachments/assets/54ab39c4-7d8f-42f5-b7ac-45be97406abd" />
+
+
 **Data**  
 The raw data was downloaded from a public platform called Expression Atlas and the project was named as  DIA-MS analysis of 21 breast cancer tissues. The data contained an E-PROT-149.tsv file which I started working with. Proteomics data had a lot of gaps where proteins were not detected, methods like `.fillna(0)` or `.dropna()` were used so that the Machine Learning model had a complete matrix to learn from.   
 I had to normalize the data so that all the samples had the same scale.  
