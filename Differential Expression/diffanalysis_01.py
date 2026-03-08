@@ -4,8 +4,8 @@ from scipy import stats
 import csv
 
 # --- 1. SET PATHS ---
-metadata_path = '/Users/deeksharajesh/Downloads/E-PROT-149/E-PROT-149.condensed-sdrf.tsv'
-expression_path = '/Users/deeksharajesh/Downloads/QPIAI_input/data/E-PROT-149.tsv'
+metadata_path = 'data/E-PROT-149.condensed-sdrf.tsv'
+expression_path = 'data/E-PROT-149.tsv'
 
 def run_full_pipeline():
     # --- 2. ALIGNMENT STEP ---
