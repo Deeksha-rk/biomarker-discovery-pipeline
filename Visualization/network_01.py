@@ -35,6 +35,6 @@ def get_clinical_network(gene_list):
     print("Expanded network saved as clinical_network.png")
 
 # Use the top 50 biomarkers instead of 20 to increase chance of overlap
-df = pd.read_csv('final_identified_biomarkers.tsv', sep='\t')
+df = pd.read_csv('Biomarker Identification/final_identified_biomarkers.tsv', sep='\t')
 top_genes = df['Protein_Label'].head(50).tolist()
 get_clinical_network(top_genes)
