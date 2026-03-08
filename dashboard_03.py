@@ -10,7 +10,7 @@ import os
 st.set_page_config(page_title="ProteoClinical: Breast Cancer Insights", layout="wide")
 
 # --- 2. Sidebar: Pipeline Settings & Description ---
-st.sidebar.header("🔬 Pipeline Settings")
+st.sidebar.header("Pipeline Settings")
 st.sidebar.markdown("""
 **Identification of genes from 21 breast cancer tissues.**
 This tool connects statistical significance to clinical pathways.
