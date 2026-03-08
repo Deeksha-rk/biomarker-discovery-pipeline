@@ -11,3 +11,5 @@ statsmodels
 matplotlib
 seaborn
 streamlit
+networkx
+plotly
