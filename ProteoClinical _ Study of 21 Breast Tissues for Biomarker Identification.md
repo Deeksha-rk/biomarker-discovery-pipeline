@@ -9,7 +9,7 @@ I had to normalize the data so that all the samples had the same scale.
 The data did not contain any information about the category (disease or Control), I had to modify the data by taking into consideration the lumA column and then categorising them. 
 
 **Differential Expression**  
-Once the data was cleaned, I did a Differential expression analysis using the T- test approach along with log2 Fold Change, the data here is continuous and it does not have any RNA counts, a T test is mathematically suitable, this also allowed me to upload the results to scikit-learn and streamlit which is used for ML model and Dashboard. 
+Once the data was cleaned, I did a Differential expression analysis using the T- test approach along with log2 Fold Change, the data here is continuous and it does not have any RNA counts, a T test is mathematically suitable, this also allowed me to upload the results to scikit-learn and streamlit which is used for ML model and Dashboard. .
 
 **Visualization of statistical finding**  
 The Protein network shows a relationship between the up and down regulated proteins *(Figure.2)*. Here the red nodes which are up-regulated are in the form of a cluster and they are responsible for the growth of tumor, while the blue nodes try to keep these tumor cells from growing which might lead to a better chance of survival. 
@@ -18,6 +18,10 @@ The Waterfall Graph *( Figure.2)*  shows how these proteins interact with the tu
 Now, if we observe the left side of the graph which has the blue bars, we can say that these proteins are trying to curb the tumor, but due to the high number of up-regulated protein, the body has lost the ability to fight against the tumor and also its interferon signalling. 
 
 SHAP model : This is a Machine learning outcome after using a Random Forest model on the data *(Figure.3)*. If we have a new input, this model will help us in identifying whether the tissue is going to be benign or malignant by looking at the features. Since the data contains only 21 samples the model may not be able to predict the tissue very accurately. Here the analysis between A1GB vs A2M) shows how they are interacting with each other. In this data,  the 21 samples do not have any strong influence on either boosting or suppressing the tumor. If the dots are present towards   
+
+In machine learning analyses, the top-ranked features often belong to the same group because they exhibit the largest changes. However, for balanced clinical interpretation, it is important to identify bi-directional biomarkers—markers that are upregulated in disease (risk markers) and those that are downregulated (protective or control markers). Therefore, the pipeline was modified to select biomarkers based on the direction of change using log2 fold change, ensuring representation of both increased and decreased markers rather than relying solely on raw feature importance.
+
+
 \+1.0 or \-1.0 they are considered noise and these proteins were confusing for the ML model to categorize them leading them to overfitting. 
 
 *Figure.1 Protein network mapping                        Figure.2 Pathway Graph which gives information regarding how the protein behaves* 
