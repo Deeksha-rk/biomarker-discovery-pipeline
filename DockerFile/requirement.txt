@@ -1,0 +1,13 @@
+# Data Handling & Math
+pandas
+numpy
+scipy
+
+# Bioinformatics & AI
+scikit-learn
+statsmodels
+
+# Visualization & Dashboard
+matplotlib
+seaborn
+streamlit
