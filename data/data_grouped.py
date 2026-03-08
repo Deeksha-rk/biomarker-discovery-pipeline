@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Input file path (change to your actual path)
-input_path = "/Users/deeksharajesh/Downloads/E-PROT-149/E-PROT-149.condensed-sdrf.tsv"
+input_path = "data/E-PROT-149.condensed-sdrf.tsv"
 folder = os.path.dirname(input_path)
 
 # Load TSV safely
