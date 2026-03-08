@@ -3,7 +3,7 @@ import numpy as np
 
 # 1. Load data
 results = pd.read_csv('final_analysis_results.tsv', sep='\t')
-expr = pd.read_csv('/Users/deeksharajesh/Downloads/QPIAI_input/data/E-PROT-149.tsv', sep='\t')
+expr = pd.read_csv('data/E-PROT-149.tsv', sep='\t')
 
 # 2. Fix the names BEFORE filtering
 results['Gene_Name_Fixed'] = expr['Gene Name'].iloc[results.index].values
