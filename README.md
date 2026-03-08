@@ -28,4 +28,9 @@ docker run -p 8501:8501 breast-cancer-pipeline
 Open your browser and navigate to:
 http://localhost:8501
 
+**Interpretation of the results as well as the complet instructions for the Docker Deployment is attached as following files :**
+
+Result Interpretation : ProteoClinical_Study of 21 Breast Tissue 
+Docker Depolyment : Instructions to run Docker 
+
 **THANK YOU**
