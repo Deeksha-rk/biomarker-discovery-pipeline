@@ -1,0 +1,218 @@
+0	1	2	3	4	5	Value_for_Group	Value_lower	Group
+E-PROT-149	iBAQ.TDM_M1808_186	characteristic	cell type	lumA	category	category	category	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	characteristic	individual	2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_186	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	characteristic	individual	17	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_197	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	characteristic	individual	1	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_198	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	characteristic	individual	4	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_208	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	characteristic	individual	21	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_209	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	characteristic	individual	5	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_210	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	characteristic	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	characteristic	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	characteristic	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	characteristic	individual	23	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	characteristic	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	factor	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	factor	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	factor	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_220	factor	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	characteristic	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	characteristic	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	characteristic	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	characteristic	individual	25	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	characteristic	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	factor	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	factor	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	factor	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_224	factor	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	characteristic	individual	13	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_225	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	characteristic	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	characteristic	individual	7	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	factor	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_226	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	characteristic	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	characteristic	individual	10	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	factor	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_254	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	characteristic	individual	20	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_259	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	characteristic	individual	14	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_265	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	characteristic	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	characteristic	individual	3	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	factor	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_266	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	characteristic	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	characteristic	individual	12	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	factor	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_270	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	characteristic	individual	11	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_276	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	characteristic	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	characteristic	individual	8	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	factor	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_283	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	characteristic	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	characteristic	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	characteristic	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	characteristic	individual	22	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	characteristic	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	factor	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	factor	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	factor	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_284	factor	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	characteristic	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	characteristic	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	characteristic	individual	18	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	factor	clinical history	progesterone receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	factor	disease staging	estrogen receptor negative	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1808_288	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	characteristic	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	characteristic	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	characteristic	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	characteristic	individual	24	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	characteristic	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	factor	cell type	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	factor	clinical history	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	factor	disease staging	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_076	factor	phenotype	not available	other	other	other	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	characteristic	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	characteristic	individual	15	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	factor	cell type	lumB	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1810_077	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	characteristic	individual	6	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_005	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	characteristic	individual	9	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	characteristic	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_006	factor	phenotype	spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	characteristic	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	characteristic	individual	16	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	factor	cell type	lumA	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_009	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	characteristic	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	characteristic	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	characteristic	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	characteristic	individual	19	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	characteristic	phenotype	no-spiculation	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	factor	cell type	her2	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	factor	clinical history	progesterone receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	factor	disease staging	estrogen receptor positive	disease	disease	disease	Unknown
+E-PROT-149	iBAQ.TDM_M1811_010	factor	phenotype	no-spiculation	disease	disease	disease	Unknown
