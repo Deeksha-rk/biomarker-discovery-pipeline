@@ -6,7 +6,7 @@ import seaborn as sns
 # --- 1. LOAD DATA ---
 # This ensures 'results' and 'expr' are defined in this specific script
 results_path = 'final_analysis_results.tsv'
-expression_path = '/Users/deeksharajesh/Downloads/QPIAI_input/data/E-PROT-149.tsv'
+expression_path = 'data/E-PROT-149.tsv'
 
 results = pd.read_csv(results_path, sep='\t')
 expr = pd.read_csv(expression_path, sep='\t')
